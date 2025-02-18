@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&family=Open+Sans&display=swap');
+
+h1, h2 {
+    font-family: 'Oswald', sans-serif;
+}
+body, p, li {
+    font-family: 'Open Sans', sans-serif;
+    color: darkblue;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 50px;
+    margin-right: 50px;
+    background-color: ivory;
+}
+
+img {
+    vertical-align: middle;
+}
